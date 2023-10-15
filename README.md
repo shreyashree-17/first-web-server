@@ -9,15 +9,16 @@ To run the server, follow these simple steps:
 1. **Clone the Git Repository**: Begin by cloning this repository to your local machine. 
 
 2. **Install Dependencies**: Navigate to the project directory in your terminal and install the required dependencies. Use the following command:
-
+```sh
 npm install
+```
 
 This command will download and install the necessary packages specified in the `package.json` file.
 
 3. **Start the Server**: Once the dependencies are installed, you can start the server using the following command:
-
+```sh
 npm run dev
-
+```
 
 This command will run the server using `nodemon`, which will automatically restart the server whenever you make changes to the code.
 
