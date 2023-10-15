@@ -1,0 +1,6 @@
+20231015	12:16:30	edd6a7d2-dfb3-4eed-a754-f44f762d1764 	 /new-page.html 	 GET
+20231015	12:17:02	063064bd-bbee-4487-a9b6-0dcf50c72c93 	 /new-page.html 	 GET
+20231015	12:17:23	488d072e-76b8-42d7-a144-bd52687c1af4 	 /new-page.html 	 GET
+20231015	12:17:23	4cd7946c-e4eb-40a7-a991-0b11e0739d2f 	 /css/style.css 	 GET
+20231015	12:17:23	d280130d-ee20-4f58-a1ac-3f05cac0cb35 	 /img/img1.jpg 	 GET
+20231015	12:17:23	95021d1e-fc06-4ba9-9e46-0e7d396c5412 	 /favicon.ico 	 GET
